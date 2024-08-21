@@ -1,1 +1,25 @@
-image
+--- exec:3.1.0:exec (default-cli) @ mavenproject1 ---
+Enter Your name: 
+md nazim uddin noyon
+Enter Your University name: 
+Varendra University
+Enter Your ID: 
+232311210
+Enter Your Section name: 
+F
+Enter Batch number: 
+33
+Enter Your CGPA: 
+3.52
+Name:md nazim uddin noyon
+University:Varendra University
+ID:232311210
+Section:F
+Batch:33
+CGPA:3.52
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time:  40.269 s
+Finished at: 2024-08-21T21:40:49+06:00
+------------------------------------------------------------------------
